@@ -1,6 +1,6 @@
 # Explorer - Projeto 02
 
-[preview](./.github/preview.png)
+![preview](./.github/preview.png)
 
 > Projeto 02
 
@@ -15,5 +15,5 @@ Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo Conhecen
 
 ## Contato
 
-henrique.ribeirotho@gmail.com
-[LinkedIn](https://www.linkedin.com/in/henrique-thomazin-068922162/)
+- henrique.ribeirotho@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/henrique-thomazin-068922162/)
